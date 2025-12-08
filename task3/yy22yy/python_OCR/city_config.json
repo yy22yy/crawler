@@ -1,0 +1,93 @@
+{
+  "target_cities": ["中山市","江门市"],
+  "cities": {
+    "省级": {
+      "name": "省级",
+      "xpath": "//li[@class='site-item'][text()='省级']"
+    },
+    "广州市": {
+      "name": "广州市", 
+      "xpath": "//li[@class='site-item'][text()='广州市']"
+    },
+    "深圳市": {
+      "name": "深圳市",
+      "xpath": "//li[@class='site-item'][text()='深圳市']"
+    },
+    "珠海市": {
+      "name": "珠海市",
+      "xpath": "//li[@class='site-item'][text()='珠海市']"
+    },
+    "汕头市": {
+      "name": "汕头市",
+      "xpath": "//li[@class='site-item'][text()='汕头市']"
+    },
+    "佛山市": {
+      "name": "佛山市",
+      "xpath": "//li[@class='site-item'][text()='佛山市']"
+    },
+    "韶关市": {
+      "name": "韶关市",
+      "xpath": "//li[@class='site-item'][text()='韶关市']"
+    },
+    "河源市": {
+      "name": "河源市",
+      "xpath": "//li[@class='site-item'][text()='河源市']"
+    },
+    "梅州市": {
+      "name": "梅州市",
+      "xpath": "//li[@class='site-item'][text()='梅州市']"
+    },
+    "惠州市": {
+      "name": "惠州市",
+      "xpath": "//li[@class='site-item'][text()='惠州市']"
+    },
+    "汕尾市": {
+      "name": "汕尾市",
+      "xpath": "//li[@class='site-item'][text()='汕尾市']"
+    },
+    "东莞市": {
+      "name": "东莞市",
+      "xpath": "//li[@class='site-item'][text()='东莞市']"
+    },
+    "中山市": {
+      "name": "中山市",
+      "xpath": "//li[@class='site-item'][text()='中山市']"
+    },
+    "江门市": {
+      "name": "江门市",
+      "xpath": "//li[@class='site-item'][text()='江门市']"
+    },
+    "阳江市": {
+      "name": "阳江市",
+      "xpath": "//li[@class='site-item'][text()='阳江市']"
+    },
+    "湛江市": {
+      "name": "湛江市",
+      "xpath": "//li[@class='site-item'][text()='湛江市']"
+    },
+    "茂名市": {
+      "name": "茂名市",
+      "xpath": "//li[@class='site-item'][text()='茂名市']"
+    },
+    "肇庆市": {
+      "name": "肇庆市",
+      "xpath": "//li[@class='site-item'][text()='肇庆市']"
+    },
+    "清远市": {
+      "name": "清远市",
+      "xpath": "//li[@class='site-item'][text()='清远市']"
+    },
+    "潮州市": {
+      "name": "潮州市",
+      "xpath": "//li[@class='site-item'][text()='潮州市']"
+    },
+    "揭阳市": {
+      "name": "揭阳市",
+      "xpath": "//li[@class='site-item'][text()='揭阳市']"
+    },
+    "云浮市": {
+      "name": "云浮市",
+      "xpath": "//li[@class='site-item'][text()='云浮市']"
+    }
+  }
+}

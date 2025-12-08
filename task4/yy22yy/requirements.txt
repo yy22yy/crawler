@@ -1,0 +1,42 @@
+# 基础HTTP和解析
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# 数据处理
+pandas==2.1.1
+numpy>=1.21.0
+
+# 网页自动化
+selenium==4.15.0
+
+# Excel 文件处理（增强支持）
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# 时间处理
+python-dateutil==2.8.2
+
+# 网络请求增强
+urllib3==2.0.7
+certifi==2023.7.22
+
+# 数据验证和清理
+validators==0.22.0
+
+# 邮件发送
+smtplib
+email
+
+# 定时任务
+schedule==1.2.0
+
+# 配置文件处理
+configparser==6.0.0
+
+# 日志记录
+logging
+
+# 文件操作和哈希计算
+hashlib
+json
